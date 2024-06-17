@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="127.0" layoutY="23.0" text="Hostel Management">
+         <font>
+            <Font name="System Bold Italic" size="26.0" />
+         </font>
+      </Label>
+      <TextArea editable="false" layoutX="54.0" layoutY="82.0" prefHeight="200.0" prefWidth="392.0" text="Hostel Data Management System is software which is helpful for keeping record of students in a hostel. In several hostels all these activities are done manually. It is very time consuming and needs to keep hard copies of the records. In our Hostel Management Application, we will store student details in a secure database server." wrapText="true">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
